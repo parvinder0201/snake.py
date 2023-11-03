@@ -1,4 +1,4 @@
-### Snake Game
+# Snake Game
 A simple Snake game built in Python using the Pygame library.
 
 ## Table of Contents
@@ -13,14 +13,14 @@ License
 Description
 This project is a classic Snake game implemented in Python, allowing you to control a snake that grows as it eats food while avoiding collision with the boundaries and itself.
 
-Features
+## Features
 Classic Snake gameplay.
 Simple and clean graphics.
 Adjustable game speed.
 Score tracking.
 Collision detection.
 Responsive keyboard controls.
-Requirements
+## Requirements
 Python 3.6+
 Pygame library
 
