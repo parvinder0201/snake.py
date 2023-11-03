@@ -1,8 +1,8 @@
 # Snake Game
-/ A simple Snake game built in Python using the Pygame library.
+A simple Snake game built in Python using the Pygame library.
 
 ## Table of Contents
-/ Description
+Description
 Features
 Requirements
 Installation
